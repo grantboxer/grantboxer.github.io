@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "barringercrater.jpg"
+  Type "RASTER"
+  (493321.62219431438,3879600.7959971218) (0,0) Label "Pt 1",
+  (502996.97457260144,3879600.7959971218) (3603,0) Label "Pt 2",
+  (493321.62219431438,3872275.052175574) (0,2728) Label "Pt 3"
+  CoordSys Earth Projection 8, 104, "m", -111, 0, 0.9996, 500000, 0
+  Units "m"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "e00690d9-73df-4119-994a-264a78e0428c"
+end_metadata

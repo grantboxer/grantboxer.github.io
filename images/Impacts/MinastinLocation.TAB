@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "minastinlocation.jpg"
+  Type "RASTER"
+  (-11464673.911199776,10871925.49766539) (0,0) Label "Pt 1",
+  (-2307560.3594434476,10871925.49766539) (1153,0) Label "Pt 2",
+  (-11464673.911199776,3938568.9229184035) (0,873) Label "Pt 3"
+  CoordSys Earth Projection 10, 104, "m", 0
+  Units "m"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "42a6ec6d-193f-4a82-879f-14980aafa947"
+end_metadata

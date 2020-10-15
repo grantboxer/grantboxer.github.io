@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "barringerlocation.jpg"
+  Type "RASTER"
+  (-14305545.282976506,6427131.6522055566) (0,0) Label "Pt 1",
+  (-9595872.9064145461,6427131.6522055566) (1153,0) Label "Pt 2",
+  (-14305545.282976506,2861178.4997870033) (0,873) Label "Pt 3"
+  CoordSys Earth Projection 10, 104, "m", 0
+  Units "m"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "2a4422c2-ab7c-4b10-bccf-41937eb1f575"
+end_metadata
