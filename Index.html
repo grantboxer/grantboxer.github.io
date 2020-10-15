@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Grant Boxer's Home Page
+</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="header">
+	<div id="logo">
+		<h1><a href="#">Grant Boxer's Web Pages</a></h1>
+	</div>
+	<div id="menu">
+		<ul>
+			<li class="active"><a href="Index.html" title="">Homepage</a></li>
+			<li><a href="About.html" title="">About Me</a></li>
+			<li><a href="Astro.html" title="">Astronomy</a></li>
+			<li><a href="Diamonds.html" title="">Diamond Exploration</a></li>
+			<li><a href="Impacts.html" title="">Meteorites and Impacts</a></li>
+			<li><a href="Bibliography.html" title="">Bibliography</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
+			<div id="main">
+					<br>
+					<h1 class="title">Welcome to Grant Boxer's Home Page!</h1>
+					<hr />
+					<br>
+					<script type="text/javascript">
+					document.write ('<p>Current time is: <span id="date-time">', new Date().toLocaleString(), 	'<\/span>.<\/p>')
+					if (document.getElementById) onload = function () {
+					setInterval ("document.getElementById ('date-time').firstChild.data = new Date().toLocaleString()", 50)
+					}
+					</script>
+				
+				<hr />
+				<div id="main">
+					<p>These pages contain information on Astronomy, Astro-Imaging, Diamonds and Diamond Geology, and Meteorite Impacts.</p>
+					
+					<p>Note that this site is under an extensive re-vamp, so please excuse any failed links.</p>
+					
+					<p>Recent updates - New location maps, field photographs and thin section images for possible new impact structure discovered in the mid-west of Western Australia at Neereno Hill, August 2017.</p>
+					<hr />
+				</div>
+			</div>
+			
+		
+
+	<div style="clear: both;">&nbsp;</div>
+</div>
+<div id="footer">
+	<p id="legal">Copyright &copy; 2007 Midnight. All Rights Reserved. Designed by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>.</p>
+	<p id="links"><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+</div>
+</body>
+</html>
