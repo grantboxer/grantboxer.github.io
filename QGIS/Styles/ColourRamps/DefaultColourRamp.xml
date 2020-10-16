@@ -1,0 +1,20 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols/>
+  <colorramps>
+    <colorramp name="Default gradient" type="gradient">
+      <prop k="color1" v="0,0,255,255"/>
+      <prop k="color2" v="255,0,0,255"/>
+      <prop k="discrete" v="0"/>
+      <prop k="info_authors" v="GRASS Development Team"/>
+      <prop k="info_cpt-city-gradient" v="&lt;cpt-city>/grass/bgyr.svg"/>
+      <prop k="info_cpt-city-license" v="&lt;cpt-city>/grass/COPYING.xml"/>
+      <prop k="info_license/informal" v="GPL"/>
+      <prop k="info_license/url" v="http://www.gnu.org/copyleft/gpl.html"/>
+      <prop k="info_license/year" v="2009"/>
+      <prop k="info_src/link" v="https://svn.osgeo.org/grass/grass/trunk/lib/gis/colors/"/>
+      <prop k="rampType" v="gradient"/>
+      <prop k="stops" v="0.3333;0,255,0,255:0.6667;255,255,0,255"/>
+    </colorramp>
+  </colorramps>
+</qgis_style>

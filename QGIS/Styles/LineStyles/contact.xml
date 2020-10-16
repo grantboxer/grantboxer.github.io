@@ -1,0 +1,2356 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol alpha="1" type="line" name="contac1129">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contac1129@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-150.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contac1129@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact111">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="0.15"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1110">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1110@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1110@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-100.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="10"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1110@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1111">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="6"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1111@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-040.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="4"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="6"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1111@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1112">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="6"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1112@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-040.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="4"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="6"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1112@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1112@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1113">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1113@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="3"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1113@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1114">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1114@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="3"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1114@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1114@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1115">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.375"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1115@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-007.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="0.75"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.75"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1115@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1116">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.375"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1116@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-007.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="0.75"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.75"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1116@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="11"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="10"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1116@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1117">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="0.4"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1117@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.15"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.25"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1118">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="0.4"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1118@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.15"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.25"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1118@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1119">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="6"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1119@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/gradational-400.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="4"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact112">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="0.15"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact112@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1120">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="6"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1120@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/gradational-400.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="4"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1120@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1121">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.35"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.275"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1121@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/gradational-235.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.35"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1122">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.35"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.275"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1122@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/gradational-235.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.35"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="13.05"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12.05"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1122@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1123">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="3.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.625"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1123@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/gradational-125.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.25"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1124">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="3.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.625"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1124@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/gradational-125.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.25"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="13"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12.25"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1124@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1125">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="0.15"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1125@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1126">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="0.15"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1126@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1126@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1127">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1127@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1127@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1128">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1128@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1128@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12.75"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1128@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact113">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact113@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1130">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1130@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-150.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1130@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="11.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11.25"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1130@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1131">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="1.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.625"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1131@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-050.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="0.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1131@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1132">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="1.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.625"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1132@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-050.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="0.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.8"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.4"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1132@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/sineline.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2.8"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12.5"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12.5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1132@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1133">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="0.15"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1133@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.15"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1134">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0"/>
+        <prop k="customdash_unit" v="MM"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="0.15"/>
+        <prop k="line_width_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0"/>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1134@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0.15"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1134@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1135">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1135@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1135@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350-2bar.svg"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact1136">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1136@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1136@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350-2bar.svg"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12.75"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact1136@2">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact114">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="4.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="2.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact114@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-350.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="3.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12.75"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="12.7275"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact114@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact115">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact115@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-150.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact116">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="2.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="1.125"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact116@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-150.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="1.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="11.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11.275"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact116@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact117">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="1.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.625"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact117@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-050.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="0.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact118">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="1.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0.625"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact118@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-050.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="0.5"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="11.25"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="10.08"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact118@1">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="chr" v="?"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="FGDCGeoAge"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,-0.5"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="size" v="2.81"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="line" name="contact119">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact119@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-100.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="10"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="12"/>
+        <prop k="interval_map_unit_scale" v="0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="11"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" type="marker" name="@contact119@1">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="#000000"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="geology/line150-020-2bar.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="#000000"/>
+            <prop k="outline_width" v="1"/>
+            <prop k="outline_width_map_unit_scale" v="0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
