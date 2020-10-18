@@ -43,7 +43,7 @@ p, blockquote, ul, ol {
 	margin-bottom: 1.4em;
 	line-height: 1.8em;
 	text-align: center;
-	width: 1000px;
+	width: 960px;
 	float: center;
 }
 
@@ -178,7 +178,7 @@ th, td {
 /* Header > Logo */
 
 #logo {
-	width: 700px;
+	width: 960px;
 	height: 19px;
 	margin: 0 auto;
 	padding: 6px 0 0 0;
@@ -207,7 +207,7 @@ th, td {
 /* Header > Menu */
 
 #menu {
-	width: 700px;
+	width: 960px;
 	height: 27px;
 	margin: 0 auto;
 }
@@ -272,7 +272,7 @@ th, td {
 #main {
 	display: block;
 	float: center;
-	width: 700px;
+	width: 960px;
 	margin: 0 auto;
 	padding: 10px;
 	text-align: center;
